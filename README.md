@@ -8,4 +8,4 @@ This [repo](https://github.com/jldec/test-pages) only has a `main` branch.
 
 ## repo settings
 
-![GitHub Pages settings](https://user-images.githubusercontent.com/849592/89879038-3c486980-dbba-11ea-8182-11ba8c851e57.png)
+![GitHub Pages settings](https://user-images.githubusercontent.com/849592/89880248-f096bf80-dbbb-11ea-8c57-037c0c44b479.png)
