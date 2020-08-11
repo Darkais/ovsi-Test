@@ -1,4 +1,4 @@
-# test-pages
+# [test-pages](https://jldec.github.io/test-pages/)
 
 This [repo](https://github.com/jldec/test-pages) only has a `main` branch.
 
